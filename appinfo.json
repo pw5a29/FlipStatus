@@ -5,7 +5,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "KenP- RobH - DeepDVD",
+    "companyName": "Philip Wong",
     "longName": "FlipStatus",
     "projectType": "native",
     "resources": {
@@ -362,7 +362,7 @@
     "shortName": "FlipStatus",
     "uuid": "976dfc10-a239-11e3-a5e2-0800200c9a66",
     "versionCode": 1,
-    "versionLabel": "1.0.0",
+    "versionLabel": "2.0",
     "watchapp": {
         "watchface": false
     }
